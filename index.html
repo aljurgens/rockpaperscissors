@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>Rock Paper Scissors</title>
+</head>
+<body>
+  <script>
+  function computerPlay() {
+    let options = ["rock", "paper", "scissors"];
+    let selection = Math.floor(Math.random() * 3);
+    return options[selection];
+  }
+
+  function playRound(playerSelection, computerSelection) {
+    if (playerSelection != null) {
+      playerSelection = playerSelection.toString().toLowerCase();
+    }
+
+    // end messages here so they can be edited more easily
+    let playerWins = "Player wins!";
+    let computerWins = "Computer wins.";
+    let tie = "It's a tie.";
+
+    if (playerSelection == "rock") {
+      if (computerSelection == "rock") {
+        return "Rock vs. Rock. " + tie;
+      } else if (computerSelection == "paper") {
+        return "Rock vs. Paper. " + computerWins;
+      } else if (computerSelection == "scissors") {
+        return "Rock vs. Scissors. " + playerWins;
+      }
+
+    } else if (playerSelection == "paper") {
+      if (computerSelection == "rock") {
+        return "Paper vs. Rock. " + playerWins;
+      } else if (computerSelection == "paper") {
+        return "Paper vs. Paper. " + tie;
+      } else if (computerSelection == "scissors") {
+        return "Paper vs. Scissors. " + computerWins;
+      }
+
+    } else if (playerSelection == "scissors") {
+      if (computerSelection == "rock") {
+        return "Scissors vs. Rock. " + computerWins;
+      } else if (computerSelection == "paper") {
+        return "Scissors vs. Paper. " + playerWins;
+      } else if (computerSelection == "scissors") {
+        return "Scissors vs. Scissors. " + tie;
+      }
+
+    } else {
+      return "Error with player selection."
+    }
+
+  }
+
+  function game() {
+    for (i = 0; i < 5; i++) {
+      let playerSelection = prompt("Enter your selection:");
+      let computerSelection = computerPlay();
+
+      console.log(playRound(playerSelection, computerSelection));
+    }
+  }
+
+  //const playerSelection = 'rock';
+  //const computerSelection = computerPlay();
+  //console.log(playRound(playerSelection, computerSelection));
+
+  game();
+  </script>
+</body>
+</html>
