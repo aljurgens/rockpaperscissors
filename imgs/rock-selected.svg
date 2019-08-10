@@ -1,0 +1,55 @@
+<svg width="640" height="640" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet">
+ <defs>
+  <path id="a7u9UA53cZ" d="m149.76,350.95l3.57,-22.62l14.29,-23.81l11.9,-17.85l11.91,-16.67l11.9,-16.67l14.29,-16.66l13.09,-16.67l15.48,-15.48l16.67,-11.9l35.71,-5.95l20.24,3.57l21.43,3.57l20.24,7.14l17.85,9.53l17.86,9.52l17.86,10.71l21.43,14.29l10.71,19.05l1.19,21.43l-1.19,23.81l-5.95,20.23l-2.38,20.24l-11.91,16.67l-13.09,15.47l-7.15,19.05l-9.52,17.86l-20.24,8.33l-21.43,9.53l-17.85,10.71l-21.43,7.14l-21.43,4.77l-20.24,1.19l-20.24,7.14l-20.23,5.95l-20.24,-5.95l-15.48,-14.29l-11.9,-17.85l-11.91,-16.67l-7.14,-20.24l-5.95,-20.24l-7.15,-19.04l-3.57,-8.34z"/>
+  <clipPath id="clipa11tku3E6">
+   <use id="svg_1" xlink:href="#a7u9UA53cZ"/>
+  </clipPath>
+  <path id="a1YK4zIZPT" d="m215.24,459.29l0,-20.24l0,-20.24l0,-23.81l20.24,-21.43l20.23,-16.67l17.86,-10.71l16.67,-11.9l20.24,-19.05l25,-21.43l19.04,-11.91l17.86,-13.09l22.62,-5.95l20.24,-2.38l19.05,-7.15"/>
+  <path id="h1r9j5PXsf" d="m215.24,395l-24.06,-7.68l-10.53,-20.49l-12.03,-19.2l-10.52,-20.49"/>
+  <path id="hsn9VPvIp" d="m298.57,192.62l8.87,21.43l19.01,10.71l16.48,14.73l15.2,17.41l19.01,10.72"/>
+  <path id="a2k0ExYwve" d="m264.63,459.29l12.21,-29.94l10.95,-20.4l13.76,-19.24l20.73,-22.91l23.76,-7.48l23.85,-0.34l25.26,-0.36l15.68,16.45"/>
+  <path id="f3HBxbOGE8" d="m228.48,229.52l-1.22,30.74l-4.88,20.9l18.28,12.3l23.16,3.69l19.5,7.37l20.72,0l20.72,-1.23"/>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_2">
+   <g id="svg_3">
+    <g id="svg_4">
+     <use stroke="#f68f21" id="svg_5" fill-opacity="0" fill="#92592e" xlink:href="#a7u9UA53cZ"/>
+     <g id="svg_6" clip-path="url(#clipa11tku3E6)">
+      <use id="svg_7" stroke-width="16" stroke="#f68f21" fill-opacity="0" xlink:href="#a7u9UA53cZ"/>
+     </g>
+    </g>
+    <g id="svg_8">
+     <g id="svg_9">
+      <use id="svg_10" stroke-width="5" stroke="#f68f21" fill-opacity="0" xlink:href="#a1YK4zIZPT"/>
+     </g>
+    </g>
+    <g id="svg_11">
+     <g id="svg_12">
+      <use id="svg_13" stroke-width="4" stroke="#f68f21" fill-opacity="0" xlink:href="#h1r9j5PXsf"/>
+     </g>
+    </g>
+    <g id="svg_14">
+     <g id="svg_15">
+      <use id="svg_16" stroke-width="4" stroke="#f68f21" fill-opacity="0" xlink:href="#hsn9VPvIp"/>
+     </g>
+    </g>
+    <g id="svg_17">
+     <g id="svg_18">
+      <use id="svg_19" stroke-width="4" stroke="#f68f21" fill-opacity="0" xlink:href="#a2k0ExYwve"/>
+     </g>
+    </g>
+    <g id="svg_20">
+     <g id="svg_21">
+      <use id="svg_22" stroke-width="4" stroke="#f68f21" fill-opacity="0" xlink:href="#f3HBxbOGE8"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

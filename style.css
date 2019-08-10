@@ -49,29 +49,29 @@ h3 {
 }
 
 .rock {
-  background-image: url('file:///Users/AMac/Downloads/untitled%20(1).svg');
+  background-image: url('imgs/rock.svg');
 }
 
 .paper {
-  background-image: url('file:///Users/AMac/Downloads/untitled%20(2).svg');
+  background-image: url('imgs/paper.svg');
 }
 
 .scissors {
-  background-image: url('file:///Users/AMac/Downloads/untitled%20(5).svg');
+  background-image: url('imgs/scissors.svg');
 }
 
 .rock-selected {
-  background-image: url('file:///Users/AMac/Downloads/method-draw-image%20(5).svg');
+  background-image: url('imgs/rock-selected.svg');
   transform: scale(1.1);
 }
 
 .paper-selected {
-  background-image: url('file:///Users/AMac/Downloads/method-draw-image%20(8).svg');
+  background-image: url('imgs/paper-selected.svg');
   transform: scale(1.1);
 }
 
 .scissors-selected {
-  background-image: url('file:///Users/AMac/Downloads/method-draw-image%20(9).svg');
+  background-image: url('imgs/scissors-selected.svg');
   transform: scale(1.1);
 }
 

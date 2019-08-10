@@ -1,0 +1,57 @@
+<svg width="640" height="640" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet">
+ <defs>
+  <path id="c7iFPD3ZnN"/>
+  <path id="b3cmQ3nygQ" d="m396.08,474.55c-126.8,-38.05 -205.26,-113.34 -235.38,-225.88"/>
+  <path id="b407esgzT" d="m310.49,185.66c32.35,99.86 110.82,158.51 235.38,175.95l-152.87,112.94"/>
+  <path id="b1uRkKFOMY" d="m160.7,252.24l154.54,-64.2"/>
+  <path id="bi57ODjiw" d="m176.72,245.35l-20.21,5.94"/>
+  <path id="bgipEPJZe" d="m315.28,185.74l-15.01,7.08"/>
+  <path id="e2m21v7HyH" d="m425.8,452.15l-16.64,13.07l-16.64,11.89"/>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <g id="svg_2">
+    <g id="svg_3">
+     <g id="svg_4">
+      <use id="svg_5" stroke-width="7" stroke="#b161bf" fill-opacity="0" xlink:href="#c7iFPD3ZnN"/>
+     </g>
+    </g>
+    <g id="svg_6">
+     <g id="svg_7">
+      <use id="svg_8" stroke-width="10" stroke="#b161bf" fill-opacity="0" xlink:href="#b3cmQ3nygQ"/>
+     </g>
+    </g>
+    <g id="svg_9">
+     <g id="svg_10">
+      <use id="svg_11" stroke-width="10" stroke="#b161bf" fill-opacity="0" xlink:href="#b407esgzT"/>
+     </g>
+    </g>
+    <g id="svg_12">
+     <g id="svg_13">
+      <use id="svg_14" stroke-width="10" stroke="#b161bf" fill-opacity="0" xlink:href="#b1uRkKFOMY"/>
+     </g>
+    </g>
+    <g id="svg_15">
+     <g id="svg_16">
+      <use id="svg_17" stroke-width="6" stroke="#b161bf" fill-opacity="0" xlink:href="#bi57ODjiw"/>
+     </g>
+    </g>
+    <g id="svg_18">
+     <g id="svg_19">
+      <use id="svg_20" stroke-width="6" stroke="#b161bf" fill-opacity="0" xlink:href="#bgipEPJZe"/>
+     </g>
+    </g>
+    <g id="svg_21">
+     <g id="svg_22">
+      <use id="svg_23" stroke-width="6" stroke="#b161bf" fill-opacity="0" xlink:href="#e2m21v7HyH"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
